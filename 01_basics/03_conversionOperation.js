@@ -46,3 +46,12 @@ console.log(x,y);
 let x2 =1
 let y2=++x2
 console.log(x2,y2);
+
+
+// "==="
+// this operator compare both "value" as well as its "data-type" 
+
+let a = "4"
+let b = 4
+console.log(a==b);   //true
+console.log(a===b); //false
