@@ -40,3 +40,9 @@ console.log(inNumber);
     true  --> 1
     false --> 0
 */
+let x =1
+let y= x++
+console.log(x,y);
+let x2 =1
+let y2=++x2
+console.log(x2,y2);
