@@ -33,3 +33,8 @@ const myFun = function(){
 }
 
 console.log(typeof myObj );     //Object
+
+
+
+
+// Stack(primitive, uses copy)   Heap(non-primitive, uses original obj)
